@@ -36,7 +36,9 @@ if os.path.isfile(File_Name):
 
       else:
         ipdict[logdict["host"]] = ipdict[logdict["host"]] + 1
-
+  
+  access_lf.close()
+  
   print("\n{:18} {:10} {:15} {:15}".format("IPAddress","HitCount","Theatlevel","Country"))
 
   ip_sorted = sorted(ipdict.items(),key=sort_ip_count,reverse=True)
