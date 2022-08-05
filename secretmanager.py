@@ -3,9 +3,6 @@ import json
 
 def api_fetch():
 
-  import boto3
-  import json
-
   try:
   
     session = boto3.session.Session()
