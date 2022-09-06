@@ -14,7 +14,9 @@ git clone https://github.com/christy700/python_logparser_bigdataapi.git
 python3 main.py
 ```
 
+# WORKING:
 
+#### Here the python interpretor will take a log file path and also a frquency count for IP hit as input and prints the output with IP address along with other details which are greater than the given frequnecy hit.
 
 # SAMPLE OUTPUT:
 
