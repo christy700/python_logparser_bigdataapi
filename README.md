@@ -21,7 +21,7 @@ python3 main.py
 ```
 
 python3 main.py 
-Enter The Log file Absolute Path: ./access.log
+Enter The Log file Path: ./access.log
 Enter The Number Of Hit(Hit Per IP Count): 200
 Successfully Retrived API from SecretManager
 
