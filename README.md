@@ -8,14 +8,15 @@
 
 
 
-# Usage
+# USAGE:
 ```
 git clone https://github.com/christy700/python_logparser_bigdataapi.git
 python3 main.py
 ```
 
 
-# Sample output:
+
+# SAMPLE OUTPUT:
 
 ```
 
