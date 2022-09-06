@@ -7,7 +7,7 @@ import bigdata_api
 def sort_ip_count(t):
   return t[-1]
 
-File_Name = input("Enter The Log file Absalute Path: ")
+File_Name = input("Enter The Log file Path: ")
 freq = input("Enter The Number Of Hit(Hit Per IP Count): ")
 
 if os.path.isfile(File_Name):
